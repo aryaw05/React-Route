@@ -1,6 +1,6 @@
 import React from "react";
-import InputForm from "../Input";
-import Button from "../Button";
+import InputForm from "../elements/Input";
+import Button from "../elements/Button"; ;
 const FormRegister = () => {
   return (
     <form action="">

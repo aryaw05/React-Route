@@ -1,5 +1,5 @@
 import React from "react";
-import FormLogin from "../fragments/FormLogin";
+// import FormLogin from "../fragments/FormLogin";
 
 const AuthLayout = (props) => {
     const {children, title} = props;
